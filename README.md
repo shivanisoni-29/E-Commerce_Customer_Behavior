@@ -1,4 +1,4 @@
-## Intern-ID: CITS2651
+## InternID: CITS2651
 # ECommerce Customer Behavior Analysis
 
 A data analysis project to explore and understand customer behavior patterns in an eCommerce setting.
